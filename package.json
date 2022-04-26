@@ -1,0 +1,19 @@
+{
+  "name": "testrepo",
+  "version": "1.0.0",
+  "description": "Test Github Actions with Test Repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sINFdorako/TestRepo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sINFdorako/TestRepo/issues"
+  },
+  "homepage": "https://github.com/sINFdorako/TestRepo#readme"
+}
